@@ -1,0 +1,17 @@
+img {
+    width: 500px;
+    height: auto;
+}
+
+.header {
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
